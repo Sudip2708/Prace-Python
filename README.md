@@ -1,6 +1,6 @@
 ## Návrhy pracovních pozic pro programátora v jazyku Python s výpisem potřebných dovedností
 
-[Dovednosti s krátkým popisem a stručným seznamem prací, ve kterých jsou potřeba](Moznosti.md)
+[Dovednosti s krátkým popisem a stručným seznamem prací, ve kterých jsou potřeba](Znalosti.md)
 
 #### Obsah:
 - Full Stack Developer

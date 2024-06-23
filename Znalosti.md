@@ -1,6 +1,6 @@
 ## Dovednosti s krátkým popisem a stručným seznamem prací, ve kterých jsou potřeba
 
-[Návrhy pracovních pozic pro programátora v jazyku Python s výpisem potřebných dovedností](Moznosti.md)
+[Návrhy pracovních pozic pro programátora v jazyku Python s výpisem potřebných dovedností](README.md)
 
 #### Obsah:
 - HTML, CSS, JavaScript
